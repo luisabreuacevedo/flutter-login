@@ -1,6 +1,7 @@
 # Login implementation with Flutter using bloc pattern
 
 A new Flutter project.
+Final result after implement the section number 11 from: https://www.udemy.com/course/flutter-ios-android-fernando-herrera
 
 ## Getting Started
 
